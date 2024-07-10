@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    overflow-x: hidden;
+}
+.navbar{
+    background-color:#2c3d50 ;
+}
+.avatar-container{
+    background-color:#1bbc9b ;
+}
+h1{
+    font-size: 72px;
+    font-weight: 600;
+    color:rgb(224, 96, 207) ;
+}
+.job-titles{
+    font-size: 28px !important;
+    color: antiquewhite;
+}
+h2{
+    font-size: 48px !important;
+    font-weight: 600 !important;
+    color: rgb(89, 84, 84);
+}
+.portfolio-img{
+    border-radius: 10px !important;
+}
+.about-container{
+    background-color:#1bbc9b ;
+   
+}
+h3{
+    color: white;
+    font-size: 72px;
+}
+.btn-padding{
+    padding:1rem 1.75rem !important ;
+}
+.footer-container{
+    background-color:#2c3d50; 
+}
+h4{
+   font-size: 28px !important; 
+}
+.link-color{
+    color: #00bda1 !important;
+}
